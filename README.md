@@ -1,10 +1,24 @@
-# Instructions on how to join `The Attik`
+# TheAttik
+
+TheAttik is an Avalanche based platform, shopify-like platform for managing NFT communities, by letting them create event rooms.
+These rooms run at scheduled time, and are decentralized.  
+
+This repo contains the initial version of the platfrom, that was built during the Avalanche Summit Hackathon 2022. It contains a demo  
+example of an "Auction" room, that works on the Avalanche C-Chain Testnet. It also contains the functionality for creating 
+
+Some of the technologies used are: Avalanche, ChainLink, Moralis, Amplify.
+
+For the demo of creating rooms you can access: http://master.dpt78yh95ixsf.amplifyapp.com/.
+
+For a demo of an auction room you can access: https://master.dpt78yh95ixsf.amplifyapp.com/0x954BDa2674aE2B7bc3673f948dC42256617036f2?roomId=5107187.
+
+# DEMO: Instructions on how to join `The Attik`
 
 ## How to get started?
 
-Currently, the project is in alpha version and is operating on the `Avalanche FUJI C-Chain (TestNet)`.
+Currently, the project is in alpha version and is operating on the `Avalanche FUJI C-Chain (Testnet)`.
 
-### 1. Set your Wallet's Network to `Avalanche FUJI C-Chain (TestNet)`
+### 1. Set your Wallet's Network to `Avalanche FUJI C-Chain (Testnet)`
 
 Most probably you will have to add it manually, so here is the required information:
 
@@ -18,13 +32,13 @@ Most probably you will have to add it manually, so here is the required informat
 
 You can copy your Wallet's address and request 10 AVAX at the foregoing link once per hour.
 
-### 3. Next, we will wait for you in [The Attik](http://master.dpt78yh95ixsf.amplifyapp.com/) to authenticate via the Wallet that uses `Avalanche FUJI C-Chain (TestNet)` as network.
+### 3. Next, we will wait for you in [The Attik](http://master.dpt78yh95ixsf.amplifyapp.com/) to authenticate via the Wallet that uses `Avalanche FUJI C-Chain (Testnet)` as network.
 
-### 4. Create an Auction Room with one of your NFTs and share the URL to your friends! 🎉 🎉 🎉 
+### 4. Create an Auction Room with one of your NFTs and share the URL to your friends! 
 
 All of the NFTs should be and will be stored on the Avalanche's TestNet Chain throughout the Alpha phase.
 
-### 5. Enjoy the lovely experience! At the end, the winner of the auction takes the NFT home - sweet victory with a very great prize! 🤑🤑🤑
+### 5. Enjoy the lovely experience! At the end, the winner of the auction takes the NFT home - sweet victory with a very great prize!
 
 Once the Auction had come to an end, the winner receives the NFT into the wallet he authenticated with.
 
@@ -45,4 +59,4 @@ We are up for any collaborations on different types of events, so do not hesitat
 ### Email: hello@theattik.xyz
 
 
-## Hope to see you all soon! 😇
+## Hope to see you all soon! 
