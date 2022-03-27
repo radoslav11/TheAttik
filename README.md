@@ -4,13 +4,15 @@ TheAttik is an Avalanche based platform, shopify-like platform for managing NFT 
 These rooms run at scheduled time, and are decentralized.  
 
 This repo contains the initial version of the platfrom, that was built during the Avalanche Summit Hackathon 2022. It contains a demo  
-example of an "Auction" room, that works on the Avalanche C-Chain Testnet. It also contains the functionality for creating 
+example of an "Auction" room, that works on the Avalanche C-Chain Testnet. It also contains the functionality for creating rooms.
 
-Some of the technologies used are: Avalanche, ChainLink, Moralis, Amplify.
+Some of the technologies used are: Avalanche, ChainLink Keeper, Moralis, Amplify.
 
 For the demo of creating rooms you can access: http://master.dpt78yh95ixsf.amplifyapp.com/.
 
-For a demo of an auction room you can access: https://master.dpt78yh95ixsf.amplifyapp.com/0x954BDa2674aE2B7bc3673f948dC42256617036f2?roomId=5107187.
+For a demo of an auction room (ends today!) you can access: https://master.dpt78yh95ixsf.amplifyapp.com/0x954BDa2674aE2B7bc3673f948dC42256617036f2?roomId=5107187.
+
+The Auction smart contract on Avalanche FUJI can be accessed here: https://testnet.snowtrace.io/address/0xB19Bf1fABE379d67A94b914C2654Bf67F66AeFeC.
 
 # DEMO: Instructions on how to join `The Attik`
 
